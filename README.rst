@@ -22,8 +22,9 @@ Quick start
            'django_pyconomic',
        )
        
-       PAYMILL_PUBLIC_API_KEY = '..'
-       PAYMILL_PRIVATE_API_KEY = '..'
+       PYCONOMIC_AGREEMENT_NUMBER = ..
+       PYCONOMIC_USERNAME = '..'
+       PYCONOMIC_PASSWORD = '..'
 
 3.  Start using the global e-conomic client instance in your code:
 
